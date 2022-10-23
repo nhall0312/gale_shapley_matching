@@ -4,7 +4,7 @@ This is a simple implementation of the Gale-Shapley Matching Algorithm for one-t
 
 It will generate a set of stable matches, meaning that no proposer and proposee who are not matched to each other simultaneously prefer each other to their matches.
 
-This algorithm has a male- or proposer-preference in that the proposer will receive the best possible stable match for him/her, while the proposee will receive the worst possible stable match for him/her.
+This algorithm has a male- or proposer-advantage in that the proposer will receive the best possible stable match for him/her, while the proposee will receive the worst possible stable match for him/her.
 
 ## Preference Structure
 
